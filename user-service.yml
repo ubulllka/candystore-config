@@ -24,8 +24,8 @@ spring:
       client:
         registration:
           github:
-            client-id: Ov23liBrnhOnwu6hBnIP
-            client-secret: 68d9c8bc706e9bf658895b856f8e8621081dfcd3
+            client-id: Ov23liffoPCUW0suwE8c
+            client-secret: cd72be6b20504a5271a367b485eb70395982e069
         provider:
           github:
             authorization-uri: https://github.com/login/oauth/authorize
